@@ -1039,8 +1039,13 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+    .container .bloc-lg {
+        align-items: center;
+        justify-content: center;
+    }
 }
 
 .col-sm-12 .row {
     margin-top: 20px
 }
+
