@@ -677,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 12px;
 }
 
 .tight-width-whitespace {
@@ -1049,3 +1049,6 @@ h4 {
     margin-top: 20px
 }
 
+.font-size-med {font-size: 20px}
+.font-italic {font-style: italic}
+p .no-style {font-style: normal; font-size: 15px}
