@@ -1039,8 +1039,9 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
-    .row .tight-width-whitespace .portfolio-row {
-        margin: auto!important;
+    .social {
+        display: flex;
+        justify-content: space-around;
     }
 }
 
