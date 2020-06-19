@@ -1039,9 +1039,8 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
-    .container .bloc-lg {
-        align-items: center;
-        justify-content: center;
+    .row .tight-width-whitespace .portfolio-row {
+        margin: auto!important;
     }
 }
 
