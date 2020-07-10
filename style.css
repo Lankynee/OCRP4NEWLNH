@@ -767,15 +767,15 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #B65E41;
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #FFF!important;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #B65E41;
     color: #FFFFFF!important;
 }
 
@@ -793,7 +793,7 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-    color: #F3976C!important;
+    color: #B65E41!important;
 }
 
 .ltc-atomic-tangerine:hover {
@@ -1045,6 +1045,7 @@ h4 {
     margin-top: 20px
 }
 
+/*Styles utilisés pour la transformation d'une image de texte en bloc de texte*/
 .font-size-med {font-size: 20px}
 .font-italic {font-style: italic}
 p .no-style {font-style: normal; font-size: 15px}
